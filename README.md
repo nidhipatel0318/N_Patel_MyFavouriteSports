@@ -1,5 +1,34 @@
 # NPatelMyFavouriteSports
 
+## Developer
+- **Name:** Nidhi Patel
+
+## Description
+- Angular application showcasing favorite sports.
+- Display content cards with information about sports.
+
+## Installation
+1. Clone the repository: `git clone https://github.com/your-username/N_Patel_MyFavouriteSports.git`
+2. Navigate to the project: `cd N_Patel_MyFavouriteSports`
+3. Install dependencies: `npm install`
+
+## Usage
+- Run the application locally: `npm start`
+
+## Custom NPM Scripts
+- Generate Component: `npm run generatecomponent component-name`
+- Generate Pipe: `npm run generatepipe pipe-name`
+- Generate Directive: `npm run generatedirective directive-name`
+
+## Folder Structure
+- `src/app/helper-files`: Contains data and utility files.
+
+## Version
+- 0.0.1
+
+
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.1.
 
 ## Development server
